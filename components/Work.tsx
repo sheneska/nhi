@@ -16,7 +16,7 @@ const projects: Project[] = [
       "Complete exterior renovation including siding, roofing, and landscape design.",
   },
   {
-    title: "Luxury Bsthroom Makeover",
+    title: "Luxury Bathroom Makeover",
     category: "Interior",
     image: "/work/work3.jpeg",
     description:
