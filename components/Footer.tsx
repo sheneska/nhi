@@ -64,7 +64,8 @@ export default function Footer() {
           <div>
             <h3 className="text-lg mb-4">Contact</h3>
             <div className="space-y-2 text-white/80 text-sm">
-              <p>info@nelsonhomeimprovementllc.com</p>
+              <p>info@nelsonhomeimprovement.com</p>
+              <p>russnelson120@gmail.com</p>
               <p>Servicing Metro Atlanta & Surrounding Areas</p>
             </div>
           </div>
